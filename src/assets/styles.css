@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sticky-wrapper {
+  min-height: 500px;
+}
+
+.border-inset {
+  border-style: inset;
+}
